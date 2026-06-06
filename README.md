@@ -1,8 +1,9 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4F8BF9;">Firas Mosbahi</span></h1>
+<h1 align="center">👋 Hi, I'm Firas Mosbahi</h1>
 <h3 align="center">DevSecOps Engineer | Automation • Security • Cloud</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firasmosbehi&color=blue&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/DevSecOps-%F0%9F%94%90-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kubernetes-%23007ACC?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -18,12 +19,12 @@ I build systems where **development, operations, and security work together smoo
 
 ### 🔐 What I do
 
-- Secure & automate the **SDLC** 
-- Engineer optimized and production grade **Docker images** 
-- Build & manage **Kubernetes clusters** and **Virtual Machines** deployments. 
-- Create **CI/CD pipelines** with GitHub Actions, Gitlab CI and Jenkins  
-- Monitor systems using **Open Telemetry,Prometheus, Loki and Grafana**  
-- Work with **Spring Boot**, **Node.js**, **TypeScript** , **Python** and **Golang**  
+- Secure & automate the **SDLC**
+- Engineer optimized and production grade **Docker images**
+- Build & manage **Kubernetes clusters** and **Virtual Machines** deployments
+- Create **CI/CD pipelines** with GitHub Actions, GitLab CI and Jenkins
+- Monitor systems using **OpenTelemetry, Prometheus, Loki and Grafana**
+- Work with **Spring Boot**, **Node.js**, **TypeScript**, **Python** and **Golang**
 
 ---
 
@@ -101,29 +102,49 @@ I build systems where **development, operations, and security work together smoo
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
 ---
 
 ## ⭐ Featured Projects
 
-- **Optimized Dockerfiles** : Project containing optimized Dockerfiles for multiple languages and frameworks.
-- **Compose Deployment** : Docker compose deployment automations using Terraform, Ansible, Github actions and Bash
+- [**Optimized Dockerfiles**](https://github.com/firasmosbehi/optimized-dockerfiles) — Production-ready Dockerfiles for popular frameworks, libraries, and tools. Clean, optimized, and DevOps-approved.
+- [**Jenkins MCP**](https://github.com/firasmosbehi/jenkins-mcp) — A comprehensive MCP server for Jenkins CI/CD with 25+ tools and dual transport support (TypeScript).
+- [**EnvGuard**](https://github.com/firasmosbehi/envguard) — Validate `.env` files against a declarative YAML schema (Go).
+- [**Release Note Generator**](https://github.com/firasmosbehi/release-note-generator) — GitHub Action that drafts release notes from Conventional Commit PR titles when you push a tag.
+- [**Kustomize Kubeconform Action**](https://github.com/firasmosbehi/kustomize-kubeconform-action) — GitHub Action to validate Kubernetes manifests with Kubeconform.
+
+---
+
+## 📝 Blog
+
+I write about DevSecOps, automation, and cloud-native technologies on my personal blog:
+
+👉 [**mosbehi.firas.im**](https://mosbehi.firas.im/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firasmosbehi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firasmosbehi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/firasmosbahi">
+  <a href="https://github.com/firasmosbehi">
     <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
-  <!-- Add your LinkedIn link here -->
   <a href="https://www.linkedin.com/in/firas-mosbahi-6363b420a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mosbehi.firas.im/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
 
 ---
 
-✨ *Always learning, always automating.*  
+✨ *Always learning, always automating.*
